@@ -11,5 +11,5 @@ package test;
  * @author Mitja
  */
 public class AnotherClass {
-  
+  //comment
 }
