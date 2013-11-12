@@ -7,7 +7,7 @@
 package test;
 
 /**
- *
+ * No idea what this does.
  * @author Mitja
  */
 public class NewClass {
