@@ -11,5 +11,5 @@ package test;
  * @author Mitja
  */
 public class NewClass {
-  
+  //second comment
 }
