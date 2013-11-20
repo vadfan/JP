@@ -8,6 +8,7 @@ package test;
 
 /**
  * Totally not needed.
+ * A new line added.
  * @author Mitja
  */
 public class UnnecessaryClass {
